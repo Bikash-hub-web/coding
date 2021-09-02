@@ -1,0 +1,20 @@
+Object detection methods aim to identify all target objects in the target image 
+and determine the categories and position information in order to achieve machine vision understanding. 
+ 
+Numerous approaches have been proposed to solve this problem, 
+mainly inspired by methods of computer vision and deep learning. However, 
+existing approaches always perform poorly for the detection of small, dense objects, 
+and even fail to detect objects with random geometric transformations. 
+
+In this study, we compare and analyse mainstream object detection algorithms and
+propose a multi-scaled deformable Spectral signature of object detection network to deal with the 
+challenges faced by current methods. 
+
+Our analysis demonstrates a strong performance on par, or even better, than state of the art methods. 
+We use deep convolutional networks to obtain multi-scaled features, and add deformable 
+convolutional structures to overcome geometric transformations. 
+
+We then fuse the multi-scaled features by up sampling, in order to implement 
+the final object recognition and region regress. Experiments prove that our suggested framework 
+improves the accuracy of detecting small target objects with geometric deformation, showing significant 
+improvements in the trade-off between accuracy and speed.

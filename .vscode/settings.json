@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "iostream": "cpp"
+    },
+    "editor.scrollbar.vertical": "visible",
+    "editor.scrollbar.verticalScrollbarSize": 2,
+    "editor.scrollbar.horizontalScrollbarSize": 2,
+    "editor.renderWhitespace": "boundary",
+    "editor.cursorSmoothCaretAnimation": true,
+    "editor.fastScrollSensitivity": 1,
+    "editor.scrollbar.scrollByPage": true,
+    "editor.smoothScrolling": true,
+    "editor.scrollPredominantAxis": false,
+    "workbench.list.mouseWheelScrollSensitivity": 0,
+    "workbench.list.smoothScrolling": true,
+    "editor.cursorSurroundingLines": 1,
+    "editor.renderLineHighlight": "gutter"
+}
